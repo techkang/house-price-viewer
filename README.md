@@ -18,15 +18,6 @@
 1. 克隆或下载本仓库。
 2. 在项目根目录下，用浏览器（推荐 Chrome 或 Firefox）打开 `index.html` 文件。
 
-### 部署到 GitHub Pages
-
-本项目可以轻松部署到免费的 GitHub Pages 服务上。
-
-1. 创建一个名为 `<your-username>.github.io` 的仓库，或者一个任意名称的普通公共仓库。
-2. 将项目所有文件（`index.html`, `all_stats.json`, `static/` 目录）推送到仓库的 `main` 分支。
-3. 在仓库的 `Settings` -> `Pages` 中，选择从 `main` 分支的根目录 (`/root`) 进行部署。
-4. 等待几分钟，即可通过 `https://<your-username>.github.io/<repository-name>/` 访问。
-
 ## 📊 数据来源
 
 数据处理自国家统计局发布的70个大中城市住宅销售价格指数月度报告。
